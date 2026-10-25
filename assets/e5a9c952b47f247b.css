@@ -1,0 +1,12 @@
+
+/* Satoshi */
+/* Source: https://api.fontshare.com/v2/css?f[]=satoshi@1&display=swap */
+@font-face {
+  font-family: 'Satoshi';
+  src: url("da3729796b3b53bf.woff2") format('woff2'),
+       url("740c52d24999c879.woff") format('woff'),
+       url("f2c01a15ad5942d4.ttf") format('truetype');
+  font-weight: 300 900;
+  font-display: swap;
+  font-style: normal;
+}
